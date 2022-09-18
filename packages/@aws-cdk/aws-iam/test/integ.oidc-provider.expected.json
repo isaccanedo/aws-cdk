@@ -1,0 +1,40 @@
+{
+  "Resources": {
+    "Clients67031123": {
+      "Type": "AWS::IAM::OIDCProvider",
+      "Properties": {
+        "ServiceToken": {
+          "Fn::GetAtt": [
+            "CustomAWSCDKOpenIdConnectProviderCustomResourceProviderHandlerF2C543E0",
+            "Arn"
+          ]
+        },
+        "ClientIdList": [
+          "foo",
+          "bar"
+        ],
+        "Url": "https://oidc.eks.us-east-1.amazonaws.com/id/test3"
+      },
+      "UpdateReplacePolicy": "Delete",
+      "DeletionPolicy": "Delete"
+    },
+    "Thumbprints9CD6AB02": {
+      "Type": "Custom::AWSCDKOpenIdConnectProvider",
+      "Properties": {
+        "ServiceToken": {
+          "Fn::GetAtt": [
+            "CustomAWSCDKOpenIdConnectProviderCustomResourceProviderHandlerF2C543E0",
+            "Arn"
+          ]
+        },
+        "ThumbprintList": [
+          "aa00aa1122aa00aa1122aa00aa1122aa00aa1122",
+          "aa00aa1122aa00aa1122aa00aa1122aa00aa1111"
+        ],
+        "Url": "https://oidc.eks.us-east-1.amazonaws.com/id/test4"
+      },
+      "UpdateReplacePolicy": "Delete",
+      "DeletionPolicy": "Delete"
+    }
+  }
+}

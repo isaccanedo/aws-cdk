@@ -1,0 +1,31 @@
+version: 0.2
+
+# This buildspec is intended to be run by CodePipeline builds.
+
+phases:
+  install:
+    commands:
+
+      # baked in our image.
+      # this also takes care of launching the docker daemon.
+      - /root/ecr-proxy/start.sh
+
+      # Install yarn if it wasn't already present in the image
+      - yarn --version || npm -g install yarn
+  build:
+    commands:
+      - 'if ${BUMP_CANDIDATE:-false}; then /bin/bash ./scripts/bump-candidate.sh; fi'
+      - /bin/bash ./scripts/align-version.sh
+      - /bin/bash ./build.sh
+  post_build:
+    commands:
+      - "[ -f .BUILD_COMPLETED ] && /bin/bash ./pack.sh"
+artifacts:
+  files:
+    - "**/*"
+  base-directory: dist
+reports:
+  jest-tests:
+    files:
+      - "**/junit.xml"
+    file-format: JunitXml
