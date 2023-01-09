@@ -45,9 +45,9 @@ Os desenvolvedores usam a [estrutura CDK] em uma das linguagens de programação
 para definir componentes de nuvem reutilizáveis chamados [construções], que são compostos 
 juntos em [pilhas], formando um "aplicativo CDK".
 
-They then use the [AWS CDK CLI] to interact with their CDK app. The CLI allows developers to
-synthesize artifacts such as AWS CloudFormation Templates, deploy stacks to development AWS accounts and "diff"
-against a deployed stack to understand the impact of a code change.
+Em seguida, eles usam a [AWS CDK CLI] para interagir com o aplicativo CDK. A CLI permite 
+que os desenvolvedores sintetizem artefatos como Modelos do AWS CloudFormation, implantem 
+pilhas para contas de desenvolvimento da AWS e "diferenciem" uma pilha implantada para entender o impacto de uma alteração de código.
 
 The [AWS Construct Library] includes a module for each
 AWS service with constructs that offer rich APIs that encapsulate the details of
