@@ -55,9 +55,10 @@ oferecem APIs avançadas que encapsulam os detalhes de como usar a AWS. A AWS Co
 reduzir a complexidade e a lógica necessária ao integrar vários serviços da AWS para atingir seus objetivos na AWS.
 
 Os módulos na AWS Construct Library são designados Experimental enquanto os construímos; 
-os módulos experimentais podem ter alterações de API importantes em qualquer versão.  After
-a module is designated Stable, it adheres to [semantic versioning](https://semver.org/),
-and only major releases can have breaking changes. Each module's stability designation
+os módulos experimentais podem ter alterações de API importantes em qualquer versão.  Depois 
+que um módulo é designado como Estável, ele adere ao [controle de versão semântico](https://semver.org/) 
+e apenas as versões principais podem ter alterações importantes.
+Each module's stability designation
 is available on its Overview page in the [AWS CDK API Reference](https://docs.aws.amazon.com/cdk/api/latest/docs/aws-construct-library.html).
 For more information, see [Versioning](https://docs.aws.amazon.com/cdk/latest/guide/reference.html#versioning)
 in the CDK Developer Guide.
