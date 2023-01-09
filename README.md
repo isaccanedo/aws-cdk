@@ -74,7 +74,7 @@ no Guia do desenvolvedor do CDK.
 
 ## Começando
 
-For a detailed walkthrough, see the [tutorial](https://docs.aws.amazon.com/cdk/latest/guide/getting_started.html#hello_world_tutorial) in the AWS CDK [Developer Guide](https://docs.aws.amazon.com/cdk/latest/guide/home.html).
+Para um passo a passo detalhado, consulte o [tutorial](https://docs.aws.amazon.com/cdk/latest/guide/getting_started.html#hello_world_tutorial) in the AWS CDK [Developer Guide](https://docs.aws.amazon.com/cdk/latest/guide/home.html).
 
 ### At a glance
 Install or update the [AWS CDK CLI] from npm (requires [Node.js ≥ 10.13.0](https://nodejs.org/download/release/latest-v10.x/)). We recommend using a version in [Active LTS](https://nodejs.org/en/about/releases/)
