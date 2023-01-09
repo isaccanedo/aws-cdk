@@ -12,8 +12,8 @@
 O **AWS Cloud Development Kit (AWS CDK)** é uma estrutura de desenvolvimento de 
 software de código aberto para definir a infraestrutura de nuvem em código e provisioná-la por meio do AWS CloudFormation.
 
-It offers a high-level object-oriented abstraction to define AWS resources imperatively using
-the power of modern programming languages. Using the CDK’s library of
+Ele oferece uma abstração orientada a objetos de alto nível para definir os recursos da AWS 
+de forma imperativa usando o poder das linguagens de programação modernas. Using the CDK’s library of
 infrastructure constructs, you can easily encapsulate AWS best practices in your
 infrastructure definition and share it without worrying about boilerplate logic.
 
