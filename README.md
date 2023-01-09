@@ -47,12 +47,12 @@ juntos em [pilhas], formando um "aplicativo CDK".
 
 Em seguida, eles usam a [AWS CDK CLI] para interagir com o aplicativo CDK. A CLI permite 
 que os desenvolvedores sintetizem artefatos como Modelos do AWS CloudFormation, implantem 
-pilhas para contas de desenvolvimento da AWS e "diferenciem" uma pilha implantada para entender o impacto de uma alteração de código.
+pilhas para contas de desenvolvimento da AWS e "diferenciem" uma pilha implantada para entender 
+o impacto de uma alteração de código.
 
 A [AWS Construct Library] inclui um módulo para cada serviço da AWS com construções que 
-oferecem APIs avançadas que encapsulam os detalhes de como usar a AWS. The AWS Construct Library aims to reduce the complexity and
-glue-logic required when integrating various AWS services to achieve your goals
-on AWS.
+oferecem APIs avançadas que encapsulam os detalhes de como usar a AWS. A AWS Construct Library visa 
+reduzir a complexidade e a lógica necessária ao integrar vários serviços da AWS para atingir seus objetivos na AWS.
 
 Modules in the AWS Construct Library are designated Experimental while we build
 them; experimental modules may have breaking API changes in any release.  After
