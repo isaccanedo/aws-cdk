@@ -54,8 +54,8 @@ A [AWS Construct Library] inclui um módulo para cada serviço da AWS com constr
 oferecem APIs avançadas que encapsulam os detalhes de como usar a AWS. A AWS Construct Library visa 
 reduzir a complexidade e a lógica necessária ao integrar vários serviços da AWS para atingir seus objetivos na AWS.
 
-Modules in the AWS Construct Library are designated Experimental while we build
-them; experimental modules may have breaking API changes in any release.  After
+Os módulos na AWS Construct Library são designados Experimental enquanto os construímos; 
+os módulos experimentais podem ter alterações de API importantes em qualquer versão.  After
 a module is designated Stable, it adheres to [semantic versioning](https://semver.org/),
 and only major releases can have breaking changes. Each module's stability designation
 is available on its Overview page in the [AWS CDK API Reference](https://docs.aws.amazon.com/cdk/api/latest/docs/aws-construct-library.html).
