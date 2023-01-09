@@ -60,7 +60,7 @@ que um módulo é designado como Estável, ele adere ao [controle de versão sem
 e apenas as versões principais podem ter alterações importantes.
 A designação de estabilidade de cada módulo está disponível em sua 
 página Visão geral no [AWS CDK API Reference](https://docs.aws.amazon.com/cdk/api/latest/docs/aws-construct-library.html).
-For more information, see [Versioning](https://docs.aws.amazon.com/cdk/latest/guide/reference.html#versioning)
+Para obter mais informações, consulte [Versionamento](https://docs.aws.amazon.com/cdk/latest/guide/reference.html#versioning)
 in the CDK Developer Guide.
 
 [CDK framework]: https://docs.aws.amazon.com/cdk/latest/guide/home.html
