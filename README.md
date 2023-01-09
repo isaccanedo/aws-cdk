@@ -41,9 +41,9 @@ Pule para:
 
 -------
 
-Developers use the [CDK framework] in one of the
-supported programming languages to define reusable cloud components called [constructs], which
-are composed together into [stacks], forming a "CDK app".
+Os desenvolvedores usam a [estrutura CDK] em uma das linguagens de programação suportadas 
+para definir componentes de nuvem reutilizáveis chamados [construções], que são compostos 
+juntos em [pilhas], formando um "aplicativo CDK".
 
 They then use the [AWS CDK CLI] to interact with their CDK app. The CLI allows developers to
 synthesize artifacts such as AWS CloudFormation Templates, deploy stacks to development AWS accounts and "diff"
