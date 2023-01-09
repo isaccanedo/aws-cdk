@@ -58,8 +58,8 @@ Os módulos na AWS Construct Library são designados Experimental enquanto os co
 os módulos experimentais podem ter alterações de API importantes em qualquer versão.  Depois 
 que um módulo é designado como Estável, ele adere ao [controle de versão semântico](https://semver.org/) 
 e apenas as versões principais podem ter alterações importantes.
-Each module's stability designation
-is available on its Overview page in the [AWS CDK API Reference](https://docs.aws.amazon.com/cdk/api/latest/docs/aws-construct-library.html).
+A designação de estabilidade de cada módulo está disponível em sua 
+página Visão geral no [AWS CDK API Reference](https://docs.aws.amazon.com/cdk/api/latest/docs/aws-construct-library.html).
 For more information, see [Versioning](https://docs.aws.amazon.com/cdk/latest/guide/reference.html#versioning)
 in the CDK Developer Guide.
 
