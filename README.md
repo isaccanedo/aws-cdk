@@ -26,7 +26,7 @@ O CDK está disponível nos seguintes idiomas:
 * Java ([Java ≥ 8](https://www.oracle.com/technetwork/java/javase/downloads/index.html) and [Maven ≥ 3.5.4](https://maven.apache.org/download.cgi))
 * .NET ([.NET Core ≥ 3.1](https://dotnet.microsoft.com/download))
 * Go ([Go ≥ 1.16.4](https://golang.org/))
-  - Go is currently in developer preview and is not recommended for production use.
+  - Go está atualmente em visualização do desenvolvedor e não é recomendado para uso em produção.
 
 \
 Pule para:
