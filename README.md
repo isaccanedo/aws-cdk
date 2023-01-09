@@ -29,7 +29,7 @@ O CDK está disponível nos seguintes idiomas:
   - Go is currently in developer preview and is not recommended for production use.
 
 \
-Jump To:
+Pule para:
 [Developer Guide](https://docs.aws.amazon.com/cdk/latest/guide) |
 [API Reference](https://docs.aws.amazon.com/cdk/api/latest/docs/aws-construct-library.html) |
 [Getting Started](#getting-started) |
