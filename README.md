@@ -76,7 +76,7 @@ no Guia do desenvolvedor do CDK.
 
 Para um passo a passo detalhado, consulte o [tutorial](https://docs.aws.amazon.com/cdk/latest/guide/getting_started.html#hello_world_tutorial) in the AWS CDK [Developer Guide](https://docs.aws.amazon.com/cdk/latest/guide/home.html).
 
-### At a glance
+### Num relance
 Install or update the [AWS CDK CLI] from npm (requires [Node.js ≥ 10.13.0](https://nodejs.org/download/release/latest-v10.x/)). We recommend using a version in [Active LTS](https://nodejs.org/en/about/releases/)
 ⚠️ versions `13.0.0` to `13.6.0` are not supported due to compatibility issues with our dependencies.
 
