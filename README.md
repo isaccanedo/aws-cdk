@@ -17,7 +17,7 @@ de forma imperativa usando o poder das linguagens de programação modernas.Usan
 de construções de infraestrutura do CDK, você pode facilmente encapsular as melhores práticas da AWS em sua 
 definição de infraestrutura e compartilhá-la sem se preocupar com a lógica clichê.
 
-The CDK is available in the following languages:
+O CDK está disponível nos seguintes idiomas:
 
 * JavaScript, TypeScript ([Node.js ≥ 10.13.0](https://nodejs.org/download/release/latest-v10.x/))
   - We recommend using a version in [Active LTS](https://nodejs.org/en/about/releases/)
