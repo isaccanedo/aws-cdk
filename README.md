@@ -94,7 +94,7 @@ $ cd hello-cdk
 $ cdk init sample-app --language=typescript
 ```
 
-This creates a sample project looking like this:
+Isso cria um projeto de amostra parecido com este:
 
 ```ts
 export class HelloCdkStack extends cdk.Stack {
