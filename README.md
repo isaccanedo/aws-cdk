@@ -112,7 +112,7 @@ export class HelloCdkStack extends cdk.Stack {
 }
 ```
 
-Deploy this to your account:
+Implante isso em sua conta:
 
 ```console
 $ cdk deploy
