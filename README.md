@@ -124,7 +124,7 @@ Use o kit de ferramentas de linha de comando `cdk` para interagir com seu projet
  * `cdk synth`: synthesizes an AWS CloudFormation template for your app
  * `cdk diff`: compares your app with the deployed stack
 
-## Getting Help
+## Conseguindo ajuda
 
 The best way to interact with our team is through GitHub. You can open an [issue](https://github.com/aws/aws-cdk/issues/new/choose) and choose from one of our templates for bug reports, feature requests, documentation issues, or guidance.
 
