@@ -128,7 +128,7 @@ Use o kit de ferramentas de linha de comando `cdk` para interagir com seu projet
 
 A melhor forma de interagir com nossa equipe é através do GitHub. Você pode abrir um [problema](https://github.com/aws/aws-cdk/issues/new/choose) e escolher um de nossos modelos para relatórios de bugs, solicitações de recursos, problemas de documentação ou orientação.
 
-If you have a support plan with AWS Support, you can also create a new [support case](https://console.aws.amazon.com/support/home#/).
+Se você tiver um plano de suporte com o AWS Support, também poderá criar um novo [caso de suporte](https://console.aws.amazon.com/support/home#/).
 
 You may also find help on these community resources:
 * Look through the [API Reference](https://docs.aws.amazon.com/cdk/api/latest/docs/aws-construct-library.html) or [Developer Guide](https://docs.aws.amazon.com/cdk/latest/guide)
