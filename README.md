@@ -133,9 +133,9 @@ Se você tiver um plano de suporte com o AWS Support, também poderá criar um n
 Você também pode encontrar ajuda nestes recursos da comunidade:
 *Consulte a [Referência da API](https://docs.aws.amazon.com/cdk/api/latest/docs/aws-construct-library.html) ou o [Guia do desenvolvedor](https://docs.aws. amazon.com/cdk/latest/guide)
 * O canal #aws-cdk Slack em [cdk.dev](https://cdk.dev)
-* Ask a question on [Stack Overflow](https://stackoverflow.com/questions/tagged/aws-cdk)
-  and tag it with `aws-cdk`
-
+* Faça uma pergunta no [Stack Overflow](https://stackoverflow.com/questions/tagged/aws-cdk)
+   e marque-o com `aws-cdk`
+   
 ## Roadmap
 
 The [AWS CDK Roadmap project board](https://github.com/orgs/aws/projects/7) lets developers know about our upcoming features and priorities to help them plan how to best leverage the CDK and identify opportunities to contribute to the project. See [ROADMAP.md](https://github.com/aws/aws-cdk/blob/master/ROADMAP.md) for more information and FAQs.
