@@ -142,7 +142,7 @@ O [quadro do projeto AWS CDK Roadmap](https://github.com/orgs/aws/projects/7) in
 
 ## Contribuindo
 
-We welcome community contributions and pull requests. See
+Congratulamo-nos com contribuições da comunidade e pull requests. See
 [CONTRIBUTING.md](./CONTRIBUTING.md) for information on how to set up a development
 environment and submit code.
 
