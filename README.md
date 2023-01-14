@@ -148,8 +148,8 @@ um ambiente de desenvolvimento e enviar código.
 
 ## Coleta de métricas
 
-This solution collects anonymous operational metrics to help AWS improve the
-quality and features of the CDK. For more information, including how to disable
+Esta solução coleta métricas operacionais anônimas para ajudar a AWS a melhorar 
+a qualidade e os recursos do CDK. For more information, including how to disable
 this capability, please see the 
 [developer guide](https://docs.aws.amazon.com/cdk/latest/guide/cli.html#version_reporting).
 
