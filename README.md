@@ -118,7 +118,7 @@ Implante isso em sua conta:
 $ cdk deploy
 ```
 
-Use the `cdk` command-line toolkit to interact with your project:
+Use o kit de ferramentas de linha de comando `cdk` para interagir com seu projeto:
 
  * `cdk deploy`: deploys your app into an AWS account
  * `cdk synth`: synthesizes an AWS CloudFormation template for your app
