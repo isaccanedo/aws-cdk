@@ -146,7 +146,8 @@ Congratulamo-nos com contribuições da comunidade e pull requests. Ver
 [CONTRIBUTING.md](./CONTRIBUTING.md) para obter informações sobre como configurar 
 um ambiente de desenvolvimento e enviar código.
 
-## Metrics collection
+## Coleta de métricas
+
 This solution collects anonymous operational metrics to help AWS improve the
 quality and features of the CDK. For more information, including how to disable
 this capability, please see the 
