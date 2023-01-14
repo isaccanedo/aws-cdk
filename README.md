@@ -136,7 +136,7 @@ Você também pode encontrar ajuda nestes recursos da comunidade:
 * Faça uma pergunta no [Stack Overflow](https://stackoverflow.com/questions/tagged/aws-cdk)
    e marque-o com `aws-cdk`
    
-## Roadmap
+## Roteiro
 
 The [AWS CDK Roadmap project board](https://github.com/orgs/aws/projects/7) lets developers know about our upcoming features and priorities to help them plan how to best leverage the CDK and identify opportunities to contribute to the project. See [ROADMAP.md](https://github.com/aws/aws-cdk/blob/master/ROADMAP.md) for more information and FAQs.
 
