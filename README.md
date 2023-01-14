@@ -140,7 +140,7 @@ Você também pode encontrar ajuda nestes recursos da comunidade:
 
 O [quadro do projeto AWS CDK Roadmap](https://github.com/orgs/aws/projects/7) informa aos desenvolvedores sobre nossos próximos recursos e prioridades para ajudá-los a planejar como aproveitar melhor o CDK e identificar oportunidades para contribuir com o projeto. Consulte [ROADMAP.md](https://github.com/aws/aws-cdk/blob/master/ROADMAP.md) para obter mais informações e perguntas frequentes.
 
-## Contributing
+## Contribuindo
 
 We welcome community contributions and pull requests. See
 [CONTRIBUTING.md](./CONTRIBUTING.md) for information on how to set up a development
