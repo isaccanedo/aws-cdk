@@ -132,7 +132,7 @@ Se você tiver um plano de suporte com o AWS Support, também poderá criar um n
 
 Você também pode encontrar ajuda nestes recursos da comunidade:
 *Consulte a [Referência da API](https://docs.aws.amazon.com/cdk/api/latest/docs/aws-construct-library.html) ou o [Guia do desenvolvedor](https://docs.aws. amazon.com/cdk/latest/guide)
-* The #aws-cdk Slack channel in [cdk.dev](https://cdk.dev)
+* O canal #aws-cdk Slack em [cdk.dev](https://cdk.dev)
 * Ask a question on [Stack Overflow](https://stackoverflow.com/questions/tagged/aws-cdk)
   and tag it with `aws-cdk`
 
