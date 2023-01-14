@@ -153,7 +153,7 @@ a qualidade e os recursos do CDK. Para obter mais informações, incluindo como
 desativar esse recurso, consulte o [guia do desenvolvedor]
 (https://docs.aws.amazon.com/cdk/latest/guide/cli.html#version_reporting).
 
-## More Resources
+## Mais recursos
 * [CDK Workshop](https://cdkworkshop.com/)
 * **[CDK Construction Zone](https://www.twitch.tv/collections/9kCOGphNZBYVdA)** - A Twitch live coding series hosted by the CDK team, season one episodes:
   * Triggers: Join us as we implement [Triggers](https://github.com/aws/aws-cdk-rfcs/issues/71), a Construct for configuring deploy time actions. Episodes 1-3:
