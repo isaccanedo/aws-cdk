@@ -78,7 +78,7 @@ Para um passo a passo detalhado, consulte o [tutorial](https://docs.aws.amazon.c
 
 ### Num relance
 Instale ou atualize o [AWS CDK CLI] do npm (requer [Node.js ≥ 10.13.0](https://nodejs.org/download/release/latest-v10.x/)). Recomendamos o uso de uma versão em [Active LTS](https://nodejs.org/en/about/releases/)
-⚠️ versions `13.0.0` to `13.6.0` are not supported due to compatibility issues with our dependencies.
+⚠️ as versões `13.0.0` a `13.6.0` não são suportadas devido a problemas de compatibilidade com nossas dependências.
 
 ```console
 $ npm i -g aws-cdk
