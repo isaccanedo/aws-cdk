@@ -142,9 +142,9 @@ O [quadro do projeto AWS CDK Roadmap](https://github.com/orgs/aws/projects/7) in
 
 ## Contribuindo
 
-Congratulamo-nos com contribuições da comunidade e pull requests. See
-[CONTRIBUTING.md](./CONTRIBUTING.md) for information on how to set up a development
-environment and submit code.
+Congratulamo-nos com contribuições da comunidade e pull requests. Ver
+[CONTRIBUTING.md](./CONTRIBUTING.md) para obter informações sobre como configurar 
+um ambiente de desenvolvimento e enviar código.
 
 ## Metrics collection
 This solution collects anonymous operational metrics to help AWS improve the
