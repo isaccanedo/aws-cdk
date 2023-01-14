@@ -131,7 +131,7 @@ A melhor forma de interagir com nossa equipe é através do GitHub. Você pode a
 Se você tiver um plano de suporte com o AWS Support, também poderá criar um novo [caso de suporte](https://console.aws.amazon.com/support/home#/).
 
 Você também pode encontrar ajuda nestes recursos da comunidade:
-* Look through the [API Reference](https://docs.aws.amazon.com/cdk/api/latest/docs/aws-construct-library.html) or [Developer Guide](https://docs.aws.amazon.com/cdk/latest/guide)
+*Consulte a [Referência da API](https://docs.aws.amazon.com/cdk/api/latest/docs/aws-construct-library.html) ou o [Guia do desenvolvedor](https://docs.aws. amazon.com/cdk/latest/guide)
 * The #aws-cdk Slack channel in [cdk.dev](https://cdk.dev)
 * Ask a question on [Stack Overflow](https://stackoverflow.com/questions/tagged/aws-cdk)
   and tag it with `aws-cdk`
